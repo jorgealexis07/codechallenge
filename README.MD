@@ -21,8 +21,9 @@ npm init @eslint/config
 
 Al finalizar esto te creará un archivo ` .eslintrc.js ` con la configuración del linter.
 
-Agrega tu configuración, haz que tu archivo .eslintrc.js se parezca a este:
-´
+Agrega tu configuración, haz que tu archivo `.eslintrc.js` se parezca a este:
+
+~~~
 module.exports = {
     "env": {
         "browser": true,
@@ -41,19 +42,19 @@ module.exports = {
         semi: ["error", "always"]
     }
 };
-´
+~~~
 
-Automatizacion los comandos de eslint en el package.json:
-´
+Automatizacion los comandos de eslint en el `package.json`:
+~~~
   "scripts": {
     "test": "node ./node_modules/.bin/jest",
     "linter": "node ./node_modules/eslint/bin/eslint.js .",
     "linter-fix": "node ./node_modules/eslint/bin/eslint.js . --fix"
   }
-´
-Ejecuta ´npm run linter´ para que el linter se ejecute y te diga todas las inconsistencias de escritura.
+~~~
+Ejecuta `npm run linter` para que el linter se ejecute y te diga todas las inconsistencias de escritura.
 
-Corre npm run linter-fix y tus archivos ahora quedarán con el mejor formato.
+Corre `npm run linter-fix` y tus archivos ahora quedarán con el mejor formato.
 
 - EXPRESS (SERVIDOR)
     Express lo utilice para la creacion de mi API.
