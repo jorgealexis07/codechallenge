@@ -79,3 +79,8 @@ jobs:
 Ya implemente GitHub Actions que automatizará la ejecución de las pruebas cada vez que haga PUSH al repositorio en GitHub.
 
 Vamos a la sección de actions y verificamos que exista un workflow en ejecución.
+
+
+### Diseño de mis componentes:
+
+![Image text](https://github.com/jorgealexis07/codechallenge/blob/master/images/DiagramCodeChallenge.PNG)
