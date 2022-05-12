@@ -2,11 +2,11 @@
 
 ### Dependencias que utilice en el proyecto:
 
-- JEST
-    Utilice jest para realizar pruebas unitarias a mi código.
+- JEST:
+       Utilice jest para realizar pruebas unitarias a mi código.
 
-- LINTER
-    Utilice linter para darle formato y una mejor estructura a mi código.
+- LINTER:
+        Utilice linter para darle formato y una mejor estructura a mi código.
     JS y cada lenguaje tienen herramientas para ayudarnos a cuidar la legibilidad en nuestro código, se les conoce como linters.
 
 Instalacion de ESLint en el proyecto
@@ -15,9 +15,11 @@ npm install eslint --save-dev
 ~~~
 
 Ejecute el comando para generar la configuración del linter:
-´npm init @eslint/config´
+~~~
+npm init @eslint/config
+~~~
 
-Al finalizar esto te creará un archivo .eslintrc.js con la configuración del linter.
+Al finalizar esto te creará un archivo ~~~ .eslintrc.js ~~~ con la configuración del linter.
 
 Agrega tu configuración, haz que tu archivo .eslintrc.js se parezca a este:
 ´
