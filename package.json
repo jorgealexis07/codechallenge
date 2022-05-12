@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "start":"node index.js",
+    "start": "node index.js",
     "test": "node ./node_modules/.bin/jest"
   },
   "repository": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/jorgealexis07/codechallenge#readme",
   "devDependencies": {
+    "eslint": "^8.15.0",
     "jest": "^28.1.0"
   }
 }
