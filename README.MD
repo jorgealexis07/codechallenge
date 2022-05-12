@@ -10,7 +10,9 @@
     JS y cada lenguaje tienen herramientas para ayudarnos a cuidar la legibilidad en nuestro código, se les conoce como linters.
 
 Instalacion de ESLint en el proyecto
-´npm install eslint --save-dev´
+~~~ 
+npm install eslint --save-dev 
+~~~
 
 Ejecute el comando para generar la configuración del linter:
 ´npm init @eslint/config´
