@@ -1,6 +1,5 @@
 const Reader = require("./../../lib/utils/Reader");
 
-
 describe("Tests para Reader", () => {
     test("Requerimiento 1: probar cuando se envia una ruta invalida", () => {
         const students = Reader.readJsonFile("visualpartner.json");
