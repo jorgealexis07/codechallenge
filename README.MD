@@ -19,7 +19,7 @@ Ejecute el comando para generar la configuración del linter:
 npm init @eslint/config
 ~~~
 
-Al finalizar esto te creará un archivo ~~~ .eslintrc.js ~~~ con la configuración del linter.
+Al finalizar esto te creará un archivo ` .eslintrc.js ` con la configuración del linter.
 
 Agrega tu configuración, haz que tu archivo .eslintrc.js se parezca a este:
 ´
