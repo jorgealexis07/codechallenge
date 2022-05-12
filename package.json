@@ -26,7 +26,7 @@
   "homepage": "https://github.com/jorgealexis07/codechallenge#readme",
   "devDependencies": {
     "eslint": "^8.15.0",
-    "jest": "^28.1.0"
+    "jest": "^27.5.1"
   },
   "dependencies": {
     "express": "^4.18.1"
