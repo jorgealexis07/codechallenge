@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jorgealexis07/codechallenge/issues"
   },
-  "homepage": "https://github.com/jorgealexis07/codechallenge#readme"
+  "homepage": "https://github.com/jorgealexis07/codechallenge#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
