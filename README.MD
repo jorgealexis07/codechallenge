@@ -230,7 +230,7 @@ app.get("/", (request, response) => {
 
 Funcionalidad de los Requerimientos:
 
-1. Habilitar un endpoint para consultar todos los estudiantes con todos sus campos.
+1. Habilitar un endpoint para consultar todos los estudiantes con todos sus campos. 
 ruta: `localhost:3000/v1/students`
 ![Image text](https://github.com/jorgealexis07/codechallenge/blob/master/images/Requerimiento1.PNG)
 
