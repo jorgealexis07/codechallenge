@@ -1,5 +1,20 @@
 ## CODE CHALLENGE
 
+### Instrucciones de uso:
+
+Clona el repositorio
+~~~ 
+git clone <url_repo>
+~~~
+Para instalar las dependencias:
+~~~ 
+npm install 
+~~~
+Para correr el proyecto:
+~~~ 
+npm run dev
+~~~
+
 ### Dependencias que utilice en el proyecto:
 
 - JEST:
